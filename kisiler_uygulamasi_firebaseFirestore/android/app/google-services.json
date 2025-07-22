@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "828082579524",
+    "project_id": "egitim-63616",
+    "storage_bucket": "egitim-63616.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828082579524:android:b418be5846d0ecc8edb411",
+        "android_client_info": {
+          "package_name": "com.example.kisiler_uygulamasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzu9f4OFmEl-SERf6SZG_y4-4qfpHbS3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
